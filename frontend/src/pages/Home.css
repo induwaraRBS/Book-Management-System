@@ -1,0 +1,23 @@
+.home {
+  text-align: center;
+  padding: 20px;
+}
+
+h2 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-top: 10px;
+  font-size: 18px;
+}
+.Button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
